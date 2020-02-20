@@ -1,2 +1,4 @@
 # jsai2020_fGAN
-Supplemental file
+
+Source code of the paper will arrive at April/2020.
+
